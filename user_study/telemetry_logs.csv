@@ -1,0 +1,9 @@
+participant_id,condition,task_id,completion_time_sec,error_identified_correctly,remedy_chosen_correctly,timestamp
+P01,Condition_A_RawLogs,Task_HR_01,142.5,False,False,1791105846.9855623
+P01,Condition_B_CHARM_Panel,Task_HR_01,38.2,True,True,1791105847.0033321
+P01,Condition_A_RawLogs,Task_HR_01,142.5,False,False,1791126331.4608412
+P01,Condition_B_CHARM_Panel,Task_HR_01,38.2,True,True,1791126331.9698968
+P01,Condition_A_RawLogs,Task_HR_01,142.5,False,False,1791141979.165255
+P01,Condition_B_CHARM_Panel,Task_HR_01,38.2,True,True,1791141979.6768825
+P01,Condition_A_RawLogs,Task_HR_01,142.5,False,False,1791142286.9157226
+P01,Condition_B_CHARM_Panel,Task_HR_01,38.2,True,True,1791142286.9217305

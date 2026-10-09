@@ -1,0 +1,13 @@
+{
+  "Total_Trajectories": 500,
+  "Corrupted_Trajectories": 250,
+  "Clean_Trajectories": 250,
+  "Detected_Cascades": 226,
+  "False_Alarms": 11,
+  "CDR": 90.4,
+  "FPR": 4.4,
+  "EPR": 74.34,
+  "CDD": 1.79,
+  "LO_per_stage_ms": 215.0,
+  "MSR": 91.3
+}
